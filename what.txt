@@ -1,5 +1,8 @@
 this is mine hhhhhhh
 this is no mime
 nothing is impossible
+<<<<<<< HEAD
 so crazy
-hhhhhhhh
+=======
+so crazy
+>>>>>>> featurel
